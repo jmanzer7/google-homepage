@@ -1,0 +1,1 @@
+This project involves breaking apart the code of the google homepage and re-assembling the code by myself into a different homepage.
